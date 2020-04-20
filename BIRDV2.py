@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# YO MA NAME IS MATT
+
 # # Basic Integrated Rigid-Origami Demonstrator (B.I.R.D)
 # 
 # ### The following is a code developed as part of a Group Design Project at the University of Southampton to model parameters of rigid origami folds and study their kinematics.
